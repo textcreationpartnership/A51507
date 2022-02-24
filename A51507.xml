@@ -1,0 +1,295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tarquin and Tullia</title>
+            <author>Maynwaring, Arthur, 1668-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51507</idno>
+            <idno type="STC">Wing M295BA</idno>
+            <idno type="STC">ESTC R201027</idno>
+            <idno type="EEBO-CITATION">99825116</idno>
+            <idno type="PROQUEST">99825116</idno>
+            <idno type="VID">29489</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29489)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1798:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tarquin and Tullia</title>
+                  <author>Maynwaring, Arthur, 1668-1712.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Arthur Maynwaring.</note>
+                  <note>Verse.</note>
+                  <note>"In times when princes cancel'd nature's law,".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:29489:1" rendition="simple:additions"/>
+            <head>Tarquin and Tullia.</head>
+            <lg>
+               <l>IN Times when Princes cancel'd Nature's Law,</l>
+               <l>And Declarations, which themſelves did draw;</l>
+               <l>When <hi>Children</hi> us'd their <hi>Parents</hi> to <hi>dethrone,</hi>
+               </l>
+               <l>And <hi>gnaw'd</hi> their way like Vipers to a Crown;</l>
+               <l>
+                  <hi>Tarquin,</hi> a Savage, Proud, Ambitious <hi>Prince,</hi>
+               </l>
+               <l>Prompt to Expell, yet thoughtleſs of Defence,</l>
+               <l>The envi'd Sceptre did from <hi>Tullius</hi> ſnatch,</l>
+               <l>The <hi>Roman King,</hi> and <hi>Father by the Match.</hi>
+               </l>
+               <lg>
+                  <l>To form his Party, Hiſtories report,</l>
+                  <l>A Sanctuary was open'd in his Court,</l>
+                  <l>Where glad Offenders ſafely might reſort.</l>
+               </lg>
+               <l>Great was the Crowd, and Wond'rous the Succeſs;</l>
+               <l>(For thoſe were fruitful times of Wickedneſs)</l>
+               <l>And all that liv'd obnoxious to the Laws</l>
+               <l>Flock'd to Prince <hi>Tarquin,</hi> and embrac'd his Cauſe.</l>
+               <l>'Mongſt theſe a <hi>Pagan Prieſt</hi> for refuge fled,</l>
+               <l>A Prophet deep in godly Faction read;</l>
+               <l>A Sicophant that knew the Modiſh way,</l>
+               <l>To Cant and Plot, to Flatter and Betray;</l>
+               <l>To Whine and Sin, to Scrible and Recant;</l>
+               <l>A ſhameleſs Author, and a luſtful Saint:</l>
+               <l>To ſerve all times he could diſtinctions Coin,</l>
+               <l>And with great eaſe flat Contradictions joyn;</l>
+               <l>A Traytor now, once Loyal in extreme,</l>
+               <l>And then Obedience was his only Theme;</l>
+               <l>He ſang in Temples the moſt Paſſive Lays,</l>
+               <l>And weari'd Monarchs with repeated Praiſe;</l>
+               <lg>
+                  <l>But manag'd auk'ardly that lawful part:</l>
+                  <l>For to vent Lies and Treaſon was his Art,</l>
+                  <l>And pointed Libels at Crown'd Heads to dart.</l>
+               </lg>
+               <l>This Prieſt and others, learned to defame,</l>
+               <l>Firſt murder'd injur'd <hi>Tullius</hi> in his Name,</l>
+               <l>With blackeſt Calumnies their Sov'raign load;</l>
+               <l>A Poyſon'd Brother, and dark League abroad,</l>
+               <l>A Son unjuſtly topt upon the Throne;</l>
+               <l>Which yet was prov'd undoubtedly his own:</l>
+               <l>Though, as the Law was there, 'twas his behoof</l>
+               <l>Who diſpoſeſt the <hi>Heir,</hi> to bring the proof.</l>
+               <l>This Helliſh charge they back'd with diſmal frights,</l>
+               <l>The loſs of Property and Sacred Rights,</l>
+               <l>And Freedom: Words which all falſe Patriots uſe,</l>
+               <l>The ſureſt Names the <hi>Romans</hi> to abuſe:</l>
+               <l>Jealous of Kings, and always Malecontent,</l>
+               <l>Forward to Change, yet certain to repent.</l>
+               <l>Whilſt thus the <hi>Plotters</hi> needful fears create,</l>
+               <l>
+                  <hi>Tarquin</hi> with open force invades the State,</l>
+               <l>
+                  <hi>Lewd Nobles</hi> joyn him with their feeble Might,</l>
+               <l>And <hi>Atheiſt Fools</hi> for dear Religion Fight:</l>
+               <l>The Prieſts their boaſted Principles diſown,</l>
+               <l>And level their harangues againſt the Throne:</l>
+               <l>Vain Promiſes the People's Minds allure,</l>
+               <l>Slight were their Ills, but deſperate the Cure.</l>
+               <l>'Tis hard for Kings to ſteer an equal courſe;</l>
+               <l>And they who baniſh one, oft get a worſe.</l>
+               <l>Thoſe Heav'nly Bodies we admire above,</l>
+               <l>Do every day irregularly move.</l>
+               <l>Yet <hi>Tullius,</hi> 'tis decreed, muſt loſe his Crown,</l>
+               <l>For <hi>Faults</hi> that were his <hi>Councils,</hi> not his own;</l>
+               <l>He now in vain Commands even thoſe he paid;</l>
+               <l>By <hi>darling Troops</hi> deſerted and betray'd;</l>
+               <l>By <hi>Creatures</hi> which his Genial warmth had made.</l>
+               <l>Of theſe a <hi>Captain of the Guards</hi> was worſt,</l>
+               <l>Whoſe Memory to this Day ſtands accurſt:</l>
+               <l>This Rogue advanc'd to Military truſt,</l>
+               <l>By his own Whoredom, and his Siſters Luſt,</l>
+               <l>Forſook his Maſter, after dreadful Vows,</l>
+               <l>And plotted to betray him to his Foes:</l>
+               <l>The kindeſt <hi>Maſter</hi> to the vileſt <hi>Slave,</hi>
+               </l>
+               <l>As free to give, as he was ſure to crave.</l>
+               <l>His <hi>haughty Female,</hi> who, as Books declare,</l>
+               <l>Did always toſs wide Noſtrils in the Air,</l>
+               <lg>
+                  <l>Was to the <hi>younger Tullia</hi> Governeſs,</l>
+                  <l>And did attend her when in borrow'd dreſs</l>
+                  <l>She fled by Night from <hi>Tullius</hi> in diſtreſs:</l>
+               </lg>
+               <l>This wretch by Letters did invite his Foes,</l>
+               <l>And us'd all Arts her Father to depoſe;</l>
+               <l>A Father always generouſly bent,</l>
+               <l>So kind, that he her wiſhes did prevent.</l>
+               <l>'Twas now high time for <hi>Tullius</hi> to retreat,</l>
+               <l>When ev'n his Daughter haſt'ned his defeat;</l>
+               <l>When Faith and Duty vaniſh'd, and no more</l>
+               <l>The Name of Father nor of King he bore:</l>
+               <l>A King! whoſe Right his Foes could ne'r diſpute,</l>
+               <l>So mild! that <hi>Mercy</hi> was his attribute;</l>
+               <l>Affable, kind, and eaſie of acceſs,</l>
+               <l>Swift to relieve, unwilling to oppreſs;</l>
+               <l>Rich without Taxes, yet in payment juſt;</l>
+               <l>So Honeſt that he hardly could diſtruſt;</l>
+               <l>His active Soul did ne'r from labours ceaſe;</l>
+               <l>Valiant in War, and ſedulous in Peace;</l>
+               <l>Studious with Traffick to <hi>enrich</hi> the Land;</l>
+               <l>Strong to Protect, and skilful to Command;</l>
+               <l>Lib'ral and Splendid, not without exceſs;</l>
+               <l>Loth to revenge, and willing to careſs:</l>
+               <l>In ſumm, How Godlike muſt his Nature be,</l>
+               <l>Whoſe only fault was too much Piety!</l>
+               <l>This King remov'd, th'aſſembled <hi>States</hi> thought fit,</l>
+               <l>That <hi>Tarquin</hi> in the <hi>Vacant Throne</hi> ſhould ſit,</l>
+               <l>Voted him Regent in their Senate Houſe,</l>
+               <l>And with an empty Name endow'd his Spouſe.</l>
+               <l>The <hi>elder Tullia,</hi> who ſome <hi>Authors feign,</hi>
+               </l>
+               <l>Drove o're her Father's Corps a trembling Wane:</l>
+               <l>But ſhe! more guilty! numerous wanes did drive,</l>
+               <l>To cruſh her Father and her King alive;</l>
+               <l>In glad remembrance of his haſt'ned fall,</l>
+               <l>Reſolv'd to inſtitute a weekly Ball:</l>
+               <l>She! jolly Glutton! grew in Dulk and Chin,</l>
+               <l>Feaſted on Rapine, and enjoy'd her Sin;</l>
+               <l>With Luxury ſhe did weak reaſon force;</l>
+               <l>Debauch'd good Nature, and cramm'd down remorſe:</l>
+               <l>Yet when ſhe drunk cool <hi>Tea</hi> in lib'ral Sups,</l>
+               <l>The ſobbing Dame was Maudlin in her Cups.</l>
+               <l>
+                  <pb facs="tcp:29489:2" rendition="simple:additions"/>
+But brutal <hi>Tarquin</hi> never did relent;</l>
+               <l>Too hard to melt, too Wicked to repent;</l>
+               <l>Cruel in deeds, more mercileſs in will,</l>
+               <l>And bleſt with <hi>natural delight in ill;</hi>
+               </l>
+               <l>From a wiſe Guardian he receiv'd his doom,</l>
+               <l>
+                  <hi>To walk the Change, and not to govern</hi> Rome;</l>
+               <l>He Swore his Native Honours to diſown;</l>
+               <l>And did by <hi>Perjury</hi> aſcend the Throne:</l>
+               <l>Oh! had that Oath his ſwelling Pride repreſt!</l>
+               <l>
+                  <hi>Rome</hi> then had been with Peace and Plenty bleſt.</l>
+               <l>But <hi>Tarquin,</hi> guided by deſtructive Fate,</l>
+               <l>Waſted the Country, and embloyl'd the State;</l>
+               <l>Tranſported to their Foes the <hi>Roman</hi> pelf,</l>
+               <l>And by their ruine hop'd to ſave himſelf.</l>
+               <l>Innumerable woes oppreſt the Land,</l>
+               <l>When it ſubmitted to his curſt Command.</l>
+               <l>So juſt was Heav'n that 'twas hard to tell,</l>
+               <l>Whether its guilt or loſſes did excell.</l>
+               <l>Men who renounc'd their God, for dearer Trade,</l>
+               <l>Were then the <hi>Guardians</hi> of <hi>Religion</hi> made:</l>
+               <lg>
+                  <l>
+                     <hi>Rebels</hi> were Sainted; Foreigners did Reign;</l>
+                  <l>
+                     <hi>Outlaws</hi> return'd preferments to obtain,</l>
+                  <l>With Frogs and Toads, and all their croaking train;</l>
+               </lg>
+               <l>No Native knew their Features, nor their Birth,</l>
+               <l>They ſeem'd the greaſie Offſpring of the Earth;</l>
+               <l>The Trade was ſunk; the Fleet and Army ſpent;</l>
+               <l>Devouring Taxes ſwallow'd leſſer Rent;</l>
+               <l>Taxes impos'd by no Authority;</l>
+               <l>Each lewd Collection was a Robbery.</l>
+               <l>Bold ſelf-creating Men did Statutes draw,</l>
+               <l>Skil'd to eſtabliſh Villany by Law;</l>
+               <l>Fanatick Drivers, whoſe unjuſt Carreers</l>
+               <l>Produc'd new Ills, exceeding former Fears.</l>
+               <l>Yet Authors here except that <hi>Faithful Band,</hi>
+               </l>
+               <l>Which the prevailing Faction did withſtand;</l>
+               <l>And ſome who bravely ſtood in the defence</l>
+               <l>Of baffled Juſtice, and their <hi>Injur'd Prince:</hi>
+               </l>
+               <l>
+                  <hi>Theſe</hi> ſhine to after Times, each Sacred Name</l>
+               <l>Stands ſtill recorded in the Books of Fame.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
